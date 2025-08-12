@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/Fauzanmhr/openwrt-zbt-z8103x
+  REPO_URL: https://github.com/Fauzanmhr/openwrt-zbt-z8103ax
   REPO_BRANCH: zbt-z8103x-c-24.10.2
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
