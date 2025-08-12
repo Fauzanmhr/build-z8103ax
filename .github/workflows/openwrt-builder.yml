@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/Fauzanmhr/openwrt-zbt-z8103ax
-  REPO_BRANCH: zbt-z8103ax-24.10.2
+  REPO_BRANCH: zbt-z8103ax-24.10.2-immortalwrt
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
